@@ -1,0 +1,37 @@
+h2{
+    color: brown;
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+mom{
+    background-color: aquamarine;
+
+}
+
+.baby{
+    float:left
+}
+
+.past{
+    color: crimson;
+    text-decoration: line-through;
+}
+
+.new{
+    color: chartreuse;
+}
+
+p{
+    background-color: coral;
+    display:inline-block;
+    height: 20px;;
+    width: 200px;;
+}
+
+.button{
+    padding-top:5cm;
+    padding-left: 5cm;
+    
+
+}
